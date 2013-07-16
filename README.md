@@ -97,7 +97,7 @@ For more details, see the documentation.
 
 Docs
 --------
-The documentation for the `Backbone.Timer` class can be found [here](TODO).
+The documentation for the `Backbone.Timer` class can be found [here](http://louisrli.github.io/backbone.timer/Backbone.Timer.html).
 
 License
 --------
