@@ -1,0 +1,17 @@
+{
+  "name": "backbone.timer",
+  "version": "0.0.1",
+  "description": "A Backbone extension for measuring the time between two events",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/louisrli/backbone-timer.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-qunit": "~0.2.2",
+    "grunt-jsdoc": "~0.4.0"
+  },
+  "author": "Louis Li"
+}
